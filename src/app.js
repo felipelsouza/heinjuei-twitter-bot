@@ -11,6 +11,10 @@ app.use(express.json());
 app.set(tweetJob);
 app.set(keepAppRunningJob);
 
+app.get('/', (req, res) => {
+  res.send('Heinjuei Bot');
+});
+
 const port = process.env.PORT || 3333;
 
 app.listen(port, () => {
