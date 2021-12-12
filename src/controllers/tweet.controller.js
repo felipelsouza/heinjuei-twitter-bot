@@ -30,7 +30,7 @@ const generateTweet = async () => {
   sentence = sentence.replace(/{verb}/g, () => getValue(verbs));
   sentence = sentence.substr(0, 280);
 
-  // client.tweet(sentence);
+  client.tweet(sentence);
 };
 
 module.exports = { generateTweet };
