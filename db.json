@@ -16,13 +16,13 @@
     "não tenho nenhum {name} no meu {object} pq meu {object} é tipo o {object} tem q ser digno pra {verb} e até agr não apareceu ninguém digno o suficiente então é isso aí",
     "Espero que vá para o céu, não quero dividir o inferno com {name}",
     "Espero que vá para o céu, não quero dividir o inferno com {adjective}",
-    "Pode Até Parecer Bobeira Mas Tudo Que Eu Queria Agora Era Um {object}",
-    "Queria Uma Mulher Que Me Apresentasse O {name}",
+    "Pode Até Parecer Bobeira Mas Tudo Que Eu Queria Agora Era {object}",
+    "Queria Uma Mulher Que Me Apresentasse {name}",
     "eu sou muito {adjective}  {adjective} e {adjective} {adjective}..",
     "alguma {name} on pra {action} comigo?..",
-    "alguma {adjective} on {action} comigo?..",
+    "alguma {adjective} on pra {action} comigo?..",
     "fale que a {name} não nasceu na Grécia pra um professor de Antiga e o veja {action} bem diante dos seus olhos..",
-    "é tão mais {adjective} e {ajective} {verb} alguma {name} ou {name} falando \"{supportSentence}\" do q ficar tentando pagar de {adjective} em coisas que não compreende na net...",
+    "é tão mais {adjective} e {adjective} {verb} alguma {name} ou {name} falando \"{supportSentence}\" do q ficar tentando pagar de {adjective} em coisas que não compreende na net...",
     "não tuitei hoje porque tava ocupada {presentAction}",
     "os {name} choram se {name} é gay kkkkk o {name} não pode ser gay o {name} não pode ser gay",
     "queria {action} se é que me entendes...",
@@ -40,7 +40,28 @@
     "lembrando da forçada de barra que rola na academia ao defender q {name} nasceu na Grécia sem nem conseguir definir direito o que é {name}, se é um {object}, uma {name}, se é {adjective} ou é {adjective} ..",
     "ei {name} vem {verb} esse {name} pra mim (tesão!)\nseu {name} parece um {adjective}, amém\nvc despertou minha emoção\n({adjective}!) se tá {adjective} vamo {action}",
     "(heinjuei): {name}\n\n({name}): oi?\n\n(heinjuei): vou {action} lkkkkk 😂",
-    "o {object} desse {name} ultimamente é a única coisa que conforta meu coração destruído.."
+    "o {object} desse {name} ultimamente é a única coisa que conforta meu coração destruído..",
+    "gosto de mina {adjective} que nem {name}",
+    "ia parar de {action} pra sempre mas alguém precisa {action} pro heinjueibot...",
+    "Nota de falecimento:\n\nNotamos que {name} faleceu.",
+    "crl q vontade de {action}",
+    "vo {action} na sua frente pra te traumatizar pro resto da vida e vc nunca mais conseguir ser a mesma",
+    "⣠⡶⠚⠛⠲⢄⡀\n⣼⠁      ⠀⠀⠀⠳⢤⣄\n⢿⠀⢧⡀⠀⠀⠀⠀⠀⢈⡇\n⠈⠳⣼⡙⠒⠶⠶⠖⠚⠉⠳⣄\n⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄\n⠀⠀⠀⠘⣆       ⠀⠀⠀⠀⠀⠈⠓⢦⣀\n⠀⠀⠀⠀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙                 \n                ⠲ {name}",
+    "off: faria {name}?\n\nme: ***",
+    "lamina: se matar 🔪\n{name}: mas eu trnho amigos\nlamina: e onde eles tar😕😕😕😕😕💔💔💔💔💔",
+    "impossível {action} em Bangu..",
+    "Sou {adjective} diariamente,\n                                       mas no\n                                       {date}\n                                       costumo\n                                       exagerar...\nPosso não ser {adjective}, mas sei lá",
+    "{verb} {presentAction} é menos vulgar do que ser professor. pronto, falei.",
+    "Filha: mãe quero perder a virgindade 😈😏\nMãe: Com quem minha filha? 😥🤔\nFilha: Com o {name} Muito Querido Por Elas😏😍😘\nMãe: Voce tá louca???😱😱 Você quer perder a virgindade ou a capacidade de andar 😓🤪😱😂😂😂",
+    "\"{supportSentence}\" - {name}",
+    "eu me odeio sim colega mas não o suficiente pra {action}",
+    "vai tomar no cu 🖕 {name}",
+    "AHAUHHUUHAUUHUAUUHAHAHHAUHA\n\nAHHUAUUHAHAHAUHAA\n\nACABO DE {action}!!!!!!!!!\n\nA GALERA NA RUA FICOU:\n\n\"OH FUCK....\"",
+    "Eu tenho coragem de {action}.",
+    "vc viu😦a briga 🙈que teve😱 na frente 😯da sua casa 🏠 ontem? não😦 viu? 2 {name}👼👼 lutando para te proteger do {name}😱 se você crê 🙏👍! em {name} 🙏deixe o seu amém ⛪",
+    "{name} passa-te a bufa\n(̅_̅_̅_̅(̲̲̲̲̲̅̅̅̅̅̅(̅_̅_̲̅_̅_̅_̲̅_̅̅_̲̅_̅̅_̅()ڪے\nAceitas?",
+    "_____ _____ _____ _____ _____\n    ← ⚪ {name}   ⠇                         \n              ᴴᵃ ⁵ ᵐⁱⁿᵘᵗᵒˢ\n\n        Você quer me ter\n            ou só meter🥴🍃\n\n                        ↑\n                  ᴿᵉˢᵖᵒⁿᵈᵉʳ\n       ꠲              ▢              <",
+    "entre {action} e {action} não vo nem dizer o q prefiro não vo nem dizer kkkk"
   ],
   "name": [
     "primo",
@@ -75,7 +96,15 @@
     "jesus cristo",
     "@reitoradafuderj",
     "galáxia do cigarro",
-    "Sérgio Moro"
+    "Sérgio Moro",
+    "babidi do dbz",
+    "supervulgar",
+    "tosquinhanda da silva",
+    "caldo de xana",
+    "Lev Vygotsky",
+    "@bartTriste123",
+    "Wilhelm Stekel",
+    "Kanye West"
   ],
   "adjective": [
     "especialista",
@@ -124,7 +153,14 @@
     "calvo",
     "triste",
     "gostosa",
-    "solteira"
+    "solteira",
+    "escrotiane",
+    "babaquel",
+    "desempregado",
+    "flamerdistas",
+    "based",
+    "bluepill",
+    "normie"
   ],
   "object": [
     "calcinha",
@@ -147,7 +183,10 @@
     "calombo retal",
     "purificador glade",
     "inseticida",
-    "bucetinha"
+    "bucetinha",
+    "seios",
+    "narga",
+    "nergal"
   ],
   "date": [
     "domingo",
@@ -166,11 +205,11 @@
     "dormindo",
     "falando bobagem",
     "lambendo o cu da gente",
-    "falando qualquer coisa com a questão"
+    "falando qualquer coisa com a questão",
+    "vendendo o corpo"
   ],
   "action": [
     "fumar um nergal",
-    "bucetinha",
     "pensar e agir",
     "depilar a bct",
     "Amar E Ser Amado",
@@ -179,7 +218,14 @@
     "lesbocentrar",
     "cuidar desses calombos retais",
     "tocar numa mulher",
-    "pegar no seu peitinho?"
+    "pegar no seu peitinho?",
+    "produzir material pro heinjueibot",
+    "esguoekjhar nusmjoa jdiuwjoqiajd",
+    "arrancar as calças e cagar",
+    "assistir série de joguinho",
+    "CHUTAR A MULETA DE UM VELHO",
+    "mamar em onça",
+    "tomar um tiro no meio do córtex encefálico"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -199,7 +245,19 @@
     "e digo MAIS..",
     "Te Amo",
     "busco cadela para cruzar 🌹",
-    "lindo esse q eu dei like"
+    "lindo esse q eu dei like",
+    "A minha mãe quer uma nora",
+    "Meu Coração Ta Despedaçado",
+    "vixi '-'",
+    "NEM FUDENDO",
+    "finalmente um motivo pra viver",
+    "sumindo #fui ✌🍃",
+    "HAhaHahAHahAHhAHAhAHahaAHaHAhAHAHaHHAhAaHaHAhaHahAHahAHhAHAhAHahaAHaHAhAHAHHAhaHahAHahAHhAHAhAHahaAHaHAhAHAHaHH",
+    "vai t0mar no cu adm vai se f0der seu c0média 0tário seu b0sta do crl sem graça vo te dar bl0ck",
+    "o suicídio é o último ato sexual",
+    "#MaconhaNasEscolas",
+    "#CigarroNasEscolas",
+    "⠀⠀⠀⠀⠀.      ⣷ \n ⢄⡀⠀⠀⠀⠀⠀⣿⣿⡄⠀⠀⠀⠀⠀⣠⠂ ⠀\n   ⢻⣶⣄⠀⠀⢀⣿⣿⡇⠀⠀⣠⣴⣾⠃ ⠀⠀\n     ⢻⣿⣷⡄⢸⣿⣿⡇⢀⣾⣿⣿⠏ ⠀\n  ⠀⠀⠙⢿⣿⡄⢿⡿⣰⣿⣿⠟⠃ \n⠐⠶⣶⣶⣦⣍⠛⠜⠳⢛⣫⣵⣶⣾⠿⠋⠉ ⠀⠀\n        ⠉⣩⡽⠗⢡⠙⢯⣭⣉⠉\n🄸 ♥ 🄼🄰🄺🄾🄽🄷🄰"
   ],
   "verb": [
     "defender",
@@ -209,6 +267,11 @@
     "cruzar",
     "definir",
     "matar",
-    "jogar"
+    "jogar",
+    "twittar",
+    "parar",
+    "sumir",
+    "traumatizar",
+    "trabalhar"
   ]
 }

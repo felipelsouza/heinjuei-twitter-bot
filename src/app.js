@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const job = require('./job');
+const { tweetJob, keepAppRunningJob } = require('./job');
 
 const app = express();
 
@@ -8,7 +8,8 @@ app.use(cors());
 
 app.use(express.json());
 
-app.set(job);
+app.set(tweetJob);
+app.set(keepAppRunningJob);
 
 const port = process.env.PORT || 3333;
 

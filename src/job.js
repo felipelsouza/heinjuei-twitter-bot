@@ -1,8 +1,9 @@
-const tweetController = require('./controllers/tweet.controller');
-
 const CronJob = require('cron').CronJob;
 
-const job = new CronJob(
+const tweetController = require('./controllers/tweet.controller');
+const pingController = require('./controllers/ping.controller');
+
+const tweetJob = new CronJob(
   '0 */1 * * *',
   // '*/5 * * * * *',
   async () => {
@@ -13,4 +14,14 @@ const job = new CronJob(
   'America/Sao_Paulo'
 );
 
-module.exports = job;
+const keepAppRunningJob = new CronJob(
+  '20,40 */1 * * *',
+  async () => {
+    await pingController.ping();
+  },
+  null,
+  true,
+  'America/Sao_Paulo'
+);
+
+module.exports = { tweetJob, keepAppRunningJob };
