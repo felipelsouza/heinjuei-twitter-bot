@@ -15,7 +15,8 @@ const tweetJob = new CronJob(
 );
 
 const keepAppRunningJob = new CronJob(
-  '20,40 */1 * * *',
+  // '20,40 */1 * * *',
+  '*/5 * * * * *',
   async () => {
     await pingController.ping();
   },
