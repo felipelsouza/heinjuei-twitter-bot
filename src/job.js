@@ -5,7 +5,7 @@ const pingController = require('./controllers/ping.controller');
 
 const tweetJob = new CronJob(
   // '*/5 * * * * *',
-  '0 */1 * * *',
+  '25 */1 * * *',
   async () => {
     await tweetController.generateTweet();
   },
