@@ -46,7 +46,7 @@
     "Nota de falecimento:\n\nNotamos que {name} faleceu.",
     "crl q vontade de {action}",
     "vo {action} na sua frente pra te traumatizar pro resto da vida e vc nunca mais conseguir ser a mesma",
-    "⣠⡶⠚⠛⠲⢄⡀\n⣼⠁      ⠀⠀⠀⠳⢤⣄\n⢿⠀⢧⡀⠀⠀⠀⠀⠀⢈⡇\n⠈⠳⣼⡙⠒⠶⠶⠖⠚⠉⠳⣄\n⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄\n⠀⠀⠀⠘⣆       ⠀⠀⠀⠀⠀⠈⠓⢦⣀\n⠀⠀⠀⠀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙                 \n                ⠲ {name}",
+    "{name}\n⣠⡶⠚⠛⠲⢄⡀\n⣼⠁      ⠀⠀⠀⠳⢤⣄\n⢿⠀⢧⡀⠀⠀⠀⠀⠀⢈⡇\n⠈⠳⣼⡙⠒⠶⠶⠖⠚⠉⠳⣄\n⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄\n⠀⠀⠀⠘⣆       ⠀⠀⠀⠀⠀⠈⠓⢦⣀\n⠀⠀⠀⠀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙                 \n                ⠲ {name}",
     "off: faria {name}?\n\nme: ***",
     "lamina: se matar 🔪\n{name}: mas eu trnho amigos\nlamina: e onde eles tar😕😕😕😕😕💔💔💔💔💔",
     "impossível {action} em Bangu..",
@@ -206,7 +206,8 @@
     "falando bobagem",
     "lambendo o cu da gente",
     "falando qualquer coisa com a questão",
-    "vendendo o corpo"
+    "vendendo o corpo",
+    "amarrotando a beiçudinha"
   ],
   "action": [
     "fumar um nergal",
