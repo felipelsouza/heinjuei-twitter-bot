@@ -42,7 +42,7 @@
     "(heinjuei): {name}\n\n({name}): oi?\n\n(heinjuei): vou {action} lkkkkk 😂",
     "o {object} desse {name} ultimamente é a única coisa que conforta meu coração destruído..",
     "gosto de mina {adjective} que nem {name}",
-    "ia parar de {action} pra sempre mas alguém precisa {action} pro heinjueibot...",
+    "ia parar de {action} pra sempre mas alguém precisa {action}...",
     "Nota de falecimento:\n\nNotamos que {name} faleceu.",
     "crl q vontade de {action}",
     "vo {action} na sua frente pra te traumatizar pro resto da vida e vc nunca mais conseguir ser a mesma",
@@ -226,7 +226,8 @@
     "assistir série de joguinho",
     "CHUTAR A MULETA DE UM VELHO",
     "mamar em onça",
-    "tomar um tiro no meio do córtex encefálico"
+    "tomar um tiro no meio do córtex encefálico",
+    "amarrotar a beiçudinha"
   ],
   "support_sentence": [
     "só sei que nada sei",
