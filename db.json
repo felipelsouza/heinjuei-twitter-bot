@@ -64,11 +64,25 @@
     "entre {action} e {action} não vo nem dizer o q prefiro não vo nem dizer kkkk",
     "{name}, o mudo uma vez enganou {name} e ofereceu {object} pra ela em troca de sexo (ela não sabia que era ele) só pra provar um ditado que as mulheres todas são '{adjective}'",
     "{name} era {name} mas dificilmente é retratado assim pela igreja católica, ele nasceu onde hoje é localizada {name}",
-    "{name} fez parte de um trisal com o amigo {name} e a mina que eles curtiam hamada {name}",
-    "oiii\nvamo {action}\nvamo?\nvamo {action}\nvamo\nvamo?\nvamo {action}\nvamo\nvamo?"
+    "{name} fez parte de um trisal com o amigo {name} e a mina que eles curtiam chamada {name}",
+    "oiii\nvamo {action}\nvamo?\nvamo {action}\nvamo\nvamo?\nvamo {action}\nvamo\nvamo?",
+    "se for pra namorar sério com alguém um dia só se for com {name}...",
+    "em 2022 ou eu vou {action} ou vou me matar",
+    "{date} eu vou {action} e por isso não posso me matar ainda..",
+    "tenho medo de sair na rua e ser processada por ser tão {adjective} e {adjective} :(",
+    "SE eu [sobreviver] até 2022 eu vou tentar ser {adjective} e não esse {name} que me tornei.",
+    "denunciem {name} sem engajar.",
+    "eu tenho orgulho de ser uma tremenda duma {adjective}. sou {adjective} como um ato político!",
+    "deus se o senhor tiver me ouvindo traz {name} de volta e me leva no lugar dele meu deus",
+    "Eu To No Chão Me Debatendo De Tanto {action}",
+    "Gente Nao Fala Comigo Agora Nao Eu To {presentAction}",
+    "às vezes eu sumo pq tô {presentAction}",
+    "don't be ridiculous.. the {name} is my boyfriend.",
+    "queria {action} pro {name} :/"
   ],
   "name": [
     "primo",
+    "prima",
     "Platão",
     "Sócrates",
     "coringa",
@@ -111,7 +125,11 @@
     "Kanye West",
     "Secundus",
     "Nietzsche",
-    "Paul Ree"
+    "Paul Ree",
+    "vô max pelado",
+    "maicon kuster",
+    "bicho mecânico estranho",
+    "guizin Ohh +Brabo!!"
   ],
   "adjective": [
     "especialista",
@@ -168,7 +186,11 @@
     "based",
     "bluepill",
     "normie",
-    "putas"
+    "putas",
+    "fodida",
+    "feia",
+    "fedorenta",
+    "vagabunda"
   ],
   "object": [
     "calcinha",
@@ -216,7 +238,9 @@
     "lambendo o cu da gente",
     "falando qualquer coisa com a questão",
     "vendendo o corpo",
-    "amarrotando a beiçudinha"
+    "amarrotando a beiçudinha",
+    "Chorando Muito",
+    "tacando a cabeça na parede"
   ],
   "action": [
     "fumar um nergal",
@@ -237,7 +261,11 @@
     "mamar em onça",
     "tomar um tiro no meio do córtex encefálico",
     "amarrotar a beiçudinha",
-    "usar cogumelo"
+    "usar cogumelo",
+    "ser amada por uma bela mulher",
+    "sair com uma mulher bonita",
+    "tomar veneno",
+    "dar amor"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -269,7 +297,8 @@
     "o suicídio é o último ato sexual",
     "#MaconhaNasEscolas",
     "#CigarroNasEscolas",
-    "⠀⠀⠀⠀⠀.      ⣷ \n ⢄⡀⠀⠀⠀⠀⠀⣿⣿⡄⠀⠀⠀⠀⠀⣠⠂ ⠀\n   ⢻⣶⣄⠀⠀⢀⣿⣿⡇⠀⠀⣠⣴⣾⠃ ⠀⠀\n     ⢻⣿⣷⡄⢸⣿⣿⡇⢀⣾⣿⣿⠏ ⠀\n  ⠀⠀⠙⢿⣿⡄⢿⡿⣰⣿⣿⠟⠃ \n⠐⠶⣶⣶⣦⣍⠛⠜⠳⢛⣫⣵⣶⣾⠿⠋⠉ ⠀⠀\n        ⠉⣩⡽⠗⢡⠙⢯⣭⣉⠉\n🄸 ♥ 🄼🄰🄺🄾🄽🄷🄰"
+    "⠀⠀⠀⠀⠀.      ⣷ \n ⢄⡀⠀⠀⠀⠀⠀⣿⣿⡄⠀⠀⠀⠀⠀⣠⠂ ⠀\n   ⢻⣶⣄⠀⠀⢀⣿⣿⡇⠀⠀⣠⣴⣾⠃ ⠀⠀\n     ⢻⣿⣷⡄⢸⣿⣿⡇⢀⣾⣿⣿⠏ ⠀\n  ⠀⠀⠙⢿⣿⡄⢿⡿⣰⣿⣿⠟⠃ \n⠐⠶⣶⣶⣦⣍⠛⠜⠳⢛⣫⣵⣶⣾⠿⠋⠉ ⠀⠀\n        ⠉⣩⡽⠗⢡⠙⢯⣭⣉⠉\n🄸 ♥ 🄼🄰🄺🄾🄽🄷🄰",
+    "al-ilah sabtai ✡"
   ],
   "verb": [
     "defender",
