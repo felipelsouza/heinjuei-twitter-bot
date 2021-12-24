@@ -79,7 +79,18 @@
     "às vezes eu sumo pq tô {presentAction}",
     "don't be ridiculous.. the {name} is my boyfriend.",
     "queria {action} pro {name} :/",
-    "vou me humilhar muito na internet ainda até o dia que {name} me {verb}"
+    "vou me humilhar muito na internet ainda até o dia que {name} me {verb}",
+    "você aí\n{name} que está lendo isso..\nquer {action} comigo? 😳",
+    "⚠ ATENÇÃO ⚠ hoje eu vou {action}",
+    "Agora há pouco eu estava {presentAction} e um {name} fez sexo anal em mim",
+    "quando {name} diz algo que não \"concordo\" eu percebo o quanto eu ainda sou {adjective} e {adjective}. Permaneço em silêncio e sigo o lema leninista: \"{supportSentence}\".",
+    "eu mato e morro pelx {name}",
+    "eh foda se {adjective} e {adjective} na era do sexo 💔",
+    "é como dizia o {name}: {supportSentence}",
+    "é galera... aparentemente fiquei de fora do trisal e não vou poder comer {name} e {name} que queria :/",
+    "a minha infância traumática me fez ser {name}..",
+    "a minha infância traumática me fez ser {adjective}..",
+    "{name} deve ter me proibido de {verb} tbm pq tá foda.."
   ],
   "name": [
     "primo",
@@ -130,7 +141,12 @@
     "vô max pelado",
     "maicon kuster",
     "bicho mecânico estranho",
-    "guizin Ohh +Brabo!!"
+    "guizin Ohh +Brabo!!",
+    "espírito",
+    "Lula",
+    "República Popular Chinesa",
+    "filósofo",
+    "North Korea"
   ],
   "adjective": [
     "especialista",
@@ -191,7 +207,11 @@
     "fodida",
     "feia",
     "fedorenta",
-    "vagabunda"
+    "vagabunda",
+    "ignorante",
+    "limitado",
+    "emo",
+    "romântico"
   ],
   "object": [
     "calcinha",
@@ -269,7 +289,9 @@
     "ser amada por uma bela mulher",
     "sair com uma mulher bonita",
     "tomar veneno",
-    "dar amor"
+    "dar amor",
+    "viver um romance",
+    "comer na panela por preguiça de lavar prato"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -302,7 +324,9 @@
     "#MaconhaNasEscolas",
     "#CigarroNasEscolas",
     "⠀⠀⠀⠀⠀.      ⣷ \n ⢄⡀⠀⠀⠀⠀⠀⣿⣿⡄⠀⠀⠀⠀⠀⣠⠂ ⠀\n   ⢻⣶⣄⠀⠀⢀⣿⣿⡇⠀⠀⣠⣴⣾⠃ ⠀⠀\n     ⢻⣿⣷⡄⢸⣿⣿⡇⢀⣾⣿⣿⠏ ⠀\n  ⠀⠀⠙⢿⣿⡄⢿⡿⣰⣿⣿⠟⠃ \n⠐⠶⣶⣶⣦⣍⠛⠜⠳⢛⣫⣵⣶⣾⠿⠋⠉ ⠀⠀\n        ⠉⣩⡽⠗⢡⠙⢯⣭⣉⠉\n🄸 ♥ 🄼🄰🄺🄾🄽🄷🄰",
-    "al-ilah sabtai ✡"
+    "al-ilah sabtai ✡",
+    "Estudar, estudar, estudar!",
+    "ferro na boneca, pedrada na vidraça"
   ],
   "verb": [
     "defender",
@@ -317,6 +341,7 @@
     "parar",
     "sumir",
     "traumatizar",
-    "trabalhar"
+    "trabalhar",
+    "sorrir"
   ]
 }
