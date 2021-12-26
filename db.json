@@ -90,10 +90,18 @@
     "é galera... aparentemente fiquei de fora do trisal e não vou poder comer {name} e {name} que queria :/",
     "a minha infância traumática me fez ser {name}..",
     "a minha infância traumática me fez ser {adjective}..",
-    "{name} deve ter me proibido de {verb} tbm pq tá foda.."
+    "{name} deve ter me proibido de {verb} tbm pq tá foda..",
+    "meus {name} viram minha {object}... é mt íntimo isso é como me ver nua 😳",
+    "eu sou muito {adjective} pra ser engajada pelas massas..",
+    "ya tebya lyublyu ('{supportSentence}' em russo)",
+    "{name} eu quero tanto {object}.. quero {action}... 📃✍",
+    "amo {name} pq ela tá {presentAction}  aí do nada lança um \"{supportSentence}\" como quem não quer nada..",
+    "o que será que a retrospectiva da globo dirá sobre {name}?..",
+    "{name} eu tô há DIAS {presentAction}... será psicológico?"
   ],
   "name": [
     "primo",
+    "primos",
     "prima",
     "Platão",
     "Sócrates",
@@ -146,7 +154,8 @@
     "Lula",
     "República Popular Chinesa",
     "filósofo",
-    "North Korea"
+    "North Korea",
+    "Shakira"
   ],
   "adjective": [
     "especialista",
@@ -211,7 +220,8 @@
     "ignorante",
     "limitado",
     "emo",
-    "romântico"
+    "romântico",
+    "underground"
   ],
   "object": [
     "calcinha",
@@ -264,7 +274,9 @@
     "tacando a cabeça na parede",
     "chorando",
     "morrendo",
-    "mamilando"
+    "mamilando",
+    "cantando sobre festejar com o moreno e se divertir",
+    "sentindo um sabor terrível, um amargor e um asco constante"
   ],
   "action": [
     "fumar um nergal",
@@ -326,7 +338,12 @@
     "⠀⠀⠀⠀⠀.      ⣷ \n ⢄⡀⠀⠀⠀⠀⠀⣿⣿⡄⠀⠀⠀⠀⠀⣠⠂ ⠀\n   ⢻⣶⣄⠀⠀⢀⣿⣿⡇⠀⠀⣠⣴⣾⠃ ⠀⠀\n     ⢻⣿⣷⡄⢸⣿⣿⡇⢀⣾⣿⣿⠏ ⠀\n  ⠀⠀⠙⢿⣿⡄⢿⡿⣰⣿⣿⠟⠃ \n⠐⠶⣶⣶⣦⣍⠛⠜⠳⢛⣫⣵⣶⣾⠿⠋⠉ ⠀⠀\n        ⠉⣩⡽⠗⢡⠙⢯⣭⣉⠉\n🄸 ♥ 🄼🄰🄺🄾🄽🄷🄰",
     "al-ilah sabtai ✡",
     "Estudar, estudar, estudar!",
-    "ferro na boneca, pedrada na vidraça"
+    "ferro na boneca, pedrada na vidraça",
+    "estamos sendo observados..",
+    "por que a CIA está nos observando?",
+    "não entle em facção",
+    "quero coisar 😈",
+    "seu presente é piroca e ela caiu do céu 🎵🎶🎵"
   ],
   "verb": [
     "defender",
