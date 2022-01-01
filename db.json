@@ -97,7 +97,25 @@
     "{name} eu quero tanto {object}.. quero {action}... 📃✍",
     "amo {name} pq ela tá {presentAction}  aí do nada lança um \"{supportSentence}\" como quem não quer nada..",
     "o que será que a retrospectiva da globo dirá sobre {name}?..",
-    "{name} eu tô há DIAS {presentAction}... será psicológico?"
+    "{name} eu tô há DIAS {presentAction}... será psicológico?",
+    "tô cansada do {name} limitando o q pode ser dito ou não, então vou dizer agr uma verdade q é dura e talvez alguns se ofendam e dêem unf mas isso precisa ser dito pq não aguento mais essa hipocrisia de vcs.. a verdade {name} é q {object} dá um tesão do caralh",
+    "top 3 curiosidades sobre mim:\n1 - eu tenho {object}\n2 - sou muito {adjective}\n3 - queria {action}",
+    "se eu {action} nos stories dela será que ela vai me {verb}?",
+    "meu nome é {name} e eu faço {object} no twitter pra esconder a dor 😄",
+    "será que o adm do perfil {name} {adjective} está solteiro?..",
+    "tava fazendo as contas aqui e certeza que se eu {action} na facul eu tiro um salário maior do que {name}.",
+    "\"{supportSentence}\"\n\namigo faz assim:\n\nvai {action}",
+    "acho que acabei de receber o melhor elogio da minha vida (que eu NÃO sou {adjective})",
+    "- {name} vai ali nk mercado pra mi.m\n- vou nada {name} eu sou muinto {adjective}",
+    "só quem gosta de {name}\n\nvai se foder",
+    "já diriam os {name} né: {supportSentence}",
+    "se {name} não {action} imediatamente medidas drásticas serão tomadas..",
+    "#{name}ExecutadoEmPraçaPublica",
+    "vou falar uma coisa agr q não é pra ofender ninguém mas precisa ser dita: {supportSentence}",
+    "Mais 1 (UM) Dia {presentAction} EU E A {name}",
+    "tem certeza VOCÊ TEM CERTEZA que vai {action} comigo na dm do twitter amigo?? eu tenho tipo uns 53 problemas psiquiátricos diferentes",
+    "{name} dá bongada massiva sem tossir como prova de força",
+    "eu gosto mt de {action} na internet com meus {name} :emoji-sorrindo:"
   ],
   "name": [
     "primo",
@@ -155,7 +173,16 @@
     "República Popular Chinesa",
     "filósofo",
     "North Korea",
-    "Shakira"
+    "Shakira",
+    "Bostil Merdil Cuzil Macaquil Chipanzil",
+    "meu povo",
+    "euribionte",
+    "Hulk",
+    "mestres com doutorado",
+    "filho",
+    "mãe",
+    "pink floyd",
+    "amigos virtuais"
   ],
   "adjective": [
     "especialista",
@@ -214,14 +241,15 @@
     "normie",
     "putas",
     "fodida",
-    "feia",
+    "feio",
     "fedorenta",
     "vagabunda",
     "ignorante",
     "limitado",
     "emo",
     "romântico",
-    "underground"
+    "underground",
+    "cinéfilo"
   ],
   "object": [
     "calcinha",
@@ -248,7 +276,9 @@
     "seios",
     "narga",
     "nergal",
-    "dinheiro"
+    "dinheiro",
+    "beijo lento",
+    "piadinha"
   ],
   "date": [
     "domingo",
@@ -276,7 +306,10 @@
     "morrendo",
     "mamilando",
     "cantando sobre festejar com o moreno e se divertir",
-    "sentindo um sabor terrível, um amargor e um asco constante"
+    "sentindo um sabor terrível, um amargor e um asco constante",
+    "morando de favor dentro de um barril",
+    "morando de favor",
+    "Indo Dormir"
   ],
   "action": [
     "fumar um nergal",
@@ -302,8 +335,15 @@
     "sair com uma mulher bonita",
     "tomar veneno",
     "dar amor",
+    "dar muito amor",
     "viver um romance",
-    "comer na panela por preguiça de lavar prato"
+    "comer na panela por preguiça de lavar prato",
+    "dar uma mamada na minha rola",
+    "namorar uma mulher",
+    "mandar emoji de foguinho",
+    "vender bolo de pote",
+    "tomar no cu",
+    "flertar"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -343,7 +383,14 @@
     "por que a CIA está nos observando?",
     "não entle em facção",
     "quero coisar 😈",
-    "seu presente é piroca e ela caiu do céu 🎵🎶🎵"
+    "seu presente é piroca e ela caiu do céu 🎵🎶🎵",
+    "um dia as massas vão me ouvir..",
+    "minha xerequinha está de #luto",
+    "dança, gatilho\ndança 😂",
+    "i need a sugar daddy",
+    "já superei ✌🍃",
+    "around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the worl",
+    "homem cis é tudo vetor de aids."
   ],
   "verb": [
     "defender",
@@ -359,6 +406,8 @@
     "sumir",
     "traumatizar",
     "trabalhar",
-    "sorrir"
+    "sorrir",
+    "amar",
+    "flertar"
   ]
 }
