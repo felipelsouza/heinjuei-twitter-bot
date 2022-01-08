@@ -120,7 +120,12 @@
     "fumar aquele que deixou o {name}",
     "vai dar tudo certo. *{presentAction}*\n\nvou ficar bem. *{presentAction}*\n\na vida é assim mesmo. *{presentAction}*",
     "engraçado kkkk engraçado que mesmo {presentAction} eu não consegui {action} por mais de 25 minutos essa noite 😂😂😂",
-    "eu acho que quando digo que quero {verb} na verdade quero dizer que quero {verb}, quero ter experiências que me façam {action}.. mas não sei como {action} sem ser lembrando que ela é {adjective} e que posso {verb} a qualquer momento (sem {verb} de vdd) assim puft!"
+    "eu acho que quando digo que quero {verb} na verdade quero dizer que quero {verb}, quero ter experiências que me façam {action}.. mas não sei como {action} sem ser lembrando que ela é {adjective} e que posso {verb} a qualquer momento (sem {verb} de vdd) assim puft!",
+    "nao ha coisa nnesse mundo que eu nao faria pra {action} hoje dia {currentDate}",
+    "mtas gentes vão {verb} quando eu revelar publicamente isso mas é verdade que em breve vou {action}..",
+    "nem gosto de {action} kkkk nem gosto nem gosto..",
+    "{name} depois de ter se isolado em uma montanha e ter sido tocado pelo conhecimento absoluto do universo se encaminhou até a cidade e exclamou:\n{supportSentence}",
+    "eu to passando mal de tanto {action} crl {name} q vontade de {verb}"
   ],
   "name": [
     "primo",
@@ -190,7 +195,9 @@
     "amigos virtuais",
     "heinbotei",
     "Theo Becker",
-    "galáxia do cigarro 2.0"
+    "galáxia do cigarro 2.0",
+    "Zaratrusta",
+    "viado"
   ],
   "adjective": [
     "especialista",
@@ -321,7 +328,8 @@
     "Indo Dormir",
     "sendo interrogada na delegacia",
     "comendo arroz com soda cáustica",
-    "tomando remédio pra ansiedade"
+    "tomando remédio pra ansiedade",
+    "MIJANDO NAS CALÇAS"
   ],
   "action": [
     "fumar um nergal",
@@ -357,7 +365,9 @@
     "tomar no cu",
     "flertar",
     "sentir vivar",
-    "experimentar a vida"
+    "experimentar a vida",
+    "chupar um peitinho",
+    "casar com uma bela mulher"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -407,7 +417,10 @@
     "homem cis é tudo vetor de aids.",
     "e o nargas",
     "proibido pensar\n\n🚫🧠",
-    "vai dormir filha da puta"
+    "vai dormir filha da puta",
+    "é tudo uma questão de poder meus putos.. é tudo uma questão de poder",
+    "eu mudei.. juro",
+    "macho.. é sal"
   ],
   "verb": [
     "defender",
@@ -427,6 +440,7 @@
     "amar",
     "flertar",
     "morrer",
-    "viver"
+    "viver",
+    "chorar"
   ]
 }

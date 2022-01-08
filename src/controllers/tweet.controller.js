@@ -1,3 +1,4 @@
+const { format } = require('date-fns');
 const low = require('lowdb');
 const FileAsync = require('lowdb/adapters/FileAsync');
 const adapter = new FileAsync('db.json');
@@ -24,6 +25,7 @@ const generateTweet = async () => {
   sentence = sentence.replace(/{adjective}/g, () => getValue(adjectives));
   sentence = sentence.replace(/{object}/g, () => getValue(objects));
   sentence = sentence.replace(/{date}/g, () => dates[new Date().getDay()]);
+  sentence = sentence.replace(/{currentDate}/g, () => format(new Date(), 'dd/MM/yyyy'));
   sentence = sentence.replace(/{action}/g, () => getValue(actions));
   sentence = sentence.replace(/{presentAction}/g, () => getValue(presentActions));
   sentence = sentence.replace(/{supportSentence}/g, () => getValue(supportSentences));
