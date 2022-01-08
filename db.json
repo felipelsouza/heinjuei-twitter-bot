@@ -116,7 +116,11 @@
     "Mais 1 (UM) Dia {presentAction} EU E A {name}",
     "tem certeza VOCÊ TEM CERTEZA que vai {action} comigo na dm do twitter amigo?? eu tenho tipo uns 53 problemas psiquiátricos diferentes",
     "{name} dá bongada massiva sem tossir como prova de força",
-    "eu gosto mt de {action} na internet com meus {name} :emoji-sorrindo:"
+    "eu gosto mt de {action} na internet com meus {name} :emoji-sorrindo:",
+    "fumar aquele que deixou o {name}",
+    "vai dar tudo certo. *{presentAction}*\n\nvou ficar bem. *{presentAction}*\n\na vida é assim mesmo. *{presentAction}*",
+    "engraçado kkkk engraçado que mesmo {presentAction} eu não consegui {action} por mais de 25 minutos essa noite 😂😂😂",
+    "eu acho que quando digo que quero {verb} na verdade quero dizer que quero {verb}, quero ter experiências que me façam {action}.. mas não sei como {action} sem ser lembrando que ela é {adjective} e que posso {verb} a qualquer momento (sem {verb} de vdd) assim puft!"
   ],
   "name": [
     "primo",
@@ -183,7 +187,10 @@
     "filho",
     "mãe",
     "pink floyd",
-    "amigos virtuais"
+    "amigos virtuais",
+    "heinbotei",
+    "Theo Becker",
+    "galáxia do cigarro 2.0"
   ],
   "adjective": [
     "especialista",
@@ -250,7 +257,8 @@
     "emo",
     "romântico",
     "underground",
-    "cinéfilo"
+    "cinéfilo",
+    "efêmera"
   ],
   "object": [
     "calcinha",
@@ -310,7 +318,10 @@
     "sentindo um sabor terrível, um amargor e um asco constante",
     "morando de favor dentro de um barril",
     "morando de favor",
-    "Indo Dormir"
+    "Indo Dormir",
+    "sendo interrogada na delegacia",
+    "comendo arroz com soda cáustica",
+    "tomando remédio pra ansiedade"
   ],
   "action": [
     "fumar um nergal",
@@ -344,7 +355,9 @@
     "mandar emoji de foguinho",
     "vender bolo de pote",
     "tomar no cu",
-    "flertar"
+    "flertar",
+    "sentir vivar",
+    "experimentar a vida"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -391,7 +404,10 @@
     "i need a sugar daddy",
     "já superei ✌🍃",
     "around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the world around the worl",
-    "homem cis é tudo vetor de aids."
+    "homem cis é tudo vetor de aids.",
+    "e o nargas",
+    "proibido pensar\n\n🚫🧠",
+    "vai dormir filha da puta"
   ],
   "verb": [
     "defender",
@@ -409,6 +425,8 @@
     "trabalhar",
     "sorrir",
     "amar",
-    "flertar"
+    "flertar",
+    "morrer",
+    "viver"
   ]
 }
