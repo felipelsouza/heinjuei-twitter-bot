@@ -125,7 +125,16 @@
     "mtas gentes vão {verb} quando eu revelar publicamente isso mas é verdade que em breve vou {action}..",
     "nem gosto de {action} kkkk nem gosto nem gosto..",
     "{name} depois de ter se isolado em uma montanha e ter sido tocado pelo conhecimento absoluto do universo se encaminhou até a cidade e exclamou:\n{supportSentence}",
-    "eu to passando mal de tanto {action} crl {name} q vontade de {verb}"
+    "eu to passando mal de tanto {action} crl {name} q vontade de {verb}",
+    "depois que eu comecei a {action} mais com manos de nome \"{name}\" eu tô {presentAction} que nem o {name} Deus q me perdoe..",
+    "ela toda {adjective} {adjective} eu toda {adjective} {adjective} {presentAction}..",
+    "Eu gosto de mulher, 100% de mulher. Mas esse {name} me faz sentir coisas diferentes. Eu teria novas experiências com ele tranquilamente..",
+    "É {name} E Acabou.",
+    "amor? só o de {name} mesmo..",
+    "a verdade é uma só, doa a quem doer\n\n{name} é foda",
+    "tava na rua e ouvi {name} falando no celular que ia comprar ração de crescimento pra pinto..",
+    "oi boa noite vc tá afim de sla tipo assim {action} e tipo hm.. nn sei kk sla sabe {action} e {action} e {action} e {action} e daí depois disso kk {action}? hein? vc quer? diz pra mim? vc quer?",
+    "eu quero >{verb}< vc!!"
   ],
   "name": [
     "primo",
@@ -197,7 +206,9 @@
     "Theo Becker",
     "galáxia do cigarro 2.0",
     "Zaratrusta",
-    "viado"
+    "viado",
+    "Bols*****",
+    "castunfo"
   ],
   "adjective": [
     "especialista",
@@ -265,7 +276,11 @@
     "romântico",
     "underground",
     "cinéfilo",
-    "efêmera"
+    "efêmera",
+    "fofinha",
+    "limpinha",
+    "esculachada",
+    "podre"
   ],
   "object": [
     "calcinha",
@@ -329,7 +344,8 @@
     "sendo interrogada na delegacia",
     "comendo arroz com soda cáustica",
     "tomando remédio pra ansiedade",
-    "MIJANDO NAS CALÇAS"
+    "MIJANDO NAS CALÇAS",
+    "caindo aos pedaços"
   ],
   "action": [
     "fumar um nergal",
@@ -420,7 +436,14 @@
     "vai dormir filha da puta",
     "é tudo uma questão de poder meus putos.. é tudo uma questão de poder",
     "eu mudei.. juro",
-    "macho.. é sal"
+    "macho.. é sal",
+    "é isso.. mais um que me odeia..",
+    "é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tudo caro é tu",
+    "linda e estonteante essa que deu like..",
+    "eu quero virar bixa",
+    "Caraca Mané Não Suporto Mais Tanta Solidão.. Tô Tristão Fi..",
+    "e o verde",
+    "todos só me humilhao e me maltratao.. 😿"
   ],
   "verb": [
     "defender",
@@ -441,6 +464,8 @@
     "flertar",
     "morrer",
     "viver",
-    "chorar"
+    "chorar",
+    "comer",
+    "enxotar"
   ]
 }
