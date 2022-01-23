@@ -132,9 +132,29 @@
     "É {name} E Acabou.",
     "amor? só o de {name} mesmo..",
     "a verdade é uma só, doa a quem doer\n\n{name} é foda",
-    "tava na rua e ouvi {name} falando no celular que ia comprar ração de crescimento pra pinto..",
+    "tava na rua e ouvi {name} falando no celular que ia {action}..",
     "oi boa noite vc tá afim de sla tipo assim {action} e tipo hm.. nn sei kk sla sabe {action} e {action} e {action} e {action} e daí depois disso kk {action}? hein? vc quer? diz pra mim? vc quer?",
-    "eu quero >{verb}< vc!!"
+    "eu quero >{verb}< vc!!",
+    "\"{supportSentence}\"\n\nfodase meu amigo eu estou {presentAction} vai tomar no olho do teu cu",
+    "{presentAction} {presentAction} {presentAction} {presentAction} e pensando no que eu fiz de errado na minha vida pra existir de forma tão deprimente e humilhante",
+    "o {name} apoia {name} a gente já sabe que tem genitália de tamanho negativo (nada contra)",
+    "tem mais que {verb} mesmo 🖕 se foda {name}",
+    "{verb} + {object} + de ladinho + {object} + {action} + com a {name} + {presentAction}",
+    "pouca gente sabe que eu tenho {object} desde os 9 anos de idade..",
+    "só entro no twitter a partir de hoje se for pra {action} na dm",
+    "{name} pergunta a {name} quanto mede seu pênis, e eles saem na porrada",
+    "cara por que q {name} falava q \"{supportSentence}\"? tipo q porra é essa man kkkk? q problemático..",
+    "se eu ver mais um \"{supportSentence}\" na tl eu vou sair {presentAction} e vou {action} tô falando sério.",
+    "uma {adjective} {adjective} quando fala umas verdades nessa rede social maldita incomoda mt mesmo..",
+    "pelo menos {name} me ama..",
+    "essa só quem ficou com {object} {adjective} {presentAction} enquanto gritava desesperadamente no banheiro pq a água acabou do nada no meio do banho vai entender..",
+    "eu quero ser pra {name} um dia o que o {name} é pra mim..",
+    "acabei de {action} e custou 10 mil reais",
+    "vou {action} .",
+    "eu quero ver {name} na prisão é isso o que eu quero ver",
+    "essa só quem tem coragem de {action} vai entender",
+    "e o {name} que aos 9 anos apenas se apaixonou por uma mina chamada {name} e passou a vida inteira fazendo poemas pra ela, cresceu e casou com outra mulher e batizou a filha q teve com ela de {name}\n\ncrl mt nós..",
+    "se eu tiver uma filha um dia o nome dela vai ser {name}"
   ],
   "name": [
     "primo",
@@ -208,7 +228,15 @@
     "Zaratrusta",
     "viado",
     "Bols*****",
-    "castunfo"
+    "castunfo",
+    "NFT",
+    "haxixeson ervanildo cannabis verdinha da silva",
+    "Cabeção",
+    "bundinha",
+    "mamãe heinjuei",
+    "Sigmund Freud",
+    "Dante Alighieri",
+    "República de Cuba"
   ],
   "adjective": [
     "especialista",
@@ -280,7 +308,9 @@
     "fofinha",
     "limpinha",
     "esculachada",
-    "podre"
+    "podre",
+    "empoderada",
+    "ensaboada"
   ],
   "object": [
     "calcinha",
@@ -309,7 +339,8 @@
     "nergal",
     "dinheiro",
     "beijo lento",
-    "piadinha"
+    "piadinha",
+    "dermatite nervosa nos pés"
   ],
   "date": [
     "domingo",
@@ -345,7 +376,15 @@
     "comendo arroz com soda cáustica",
     "tomando remédio pra ansiedade",
     "MIJANDO NAS CALÇAS",
-    "caindo aos pedaços"
+    "caindo aos pedaços",
+    "cagando pelada",
+    "chorando muito",
+    "ouvindo música triste",
+    "suando com o nariz escorrendo",
+    "pensando no que eu fiz de errado na minha vida",
+    "olhando nos olhos",
+    "correndo na rua",
+    "ardendo"
   ],
   "action": [
     "fumar um nergal",
@@ -383,7 +422,14 @@
     "sentir vivar",
     "experimentar a vida",
     "chupar um peitinho",
-    "casar com uma bela mulher"
+    "casar com uma bela mulher",
+    "comprar ração de crescimento pra pinto",
+    "fazer amor",
+    "conversar com mulher bonita",
+    "jogar na frente de algum veículo em movimento",
+    "enfiar um NFT no meu cu",
+    "morrer sozinha",
+    "dar uma mamada na minha rola"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -443,7 +489,24 @@
     "eu quero virar bixa",
     "Caraca Mané Não Suporto Mais Tanta Solidão.. Tô Tristão Fi..",
     "e o verde",
-    "todos só me humilhao e me maltratao.. 😿"
+    "todos só me humilhao e me maltratao.. 😿",
+    "ah mas é meme kkkk humor hahah é pra rir",
+    "queria tar assim num seio ..",
+    "xtou muianto triste hoije 😭 ai minha vuaida porque é tainta dor",
+    "eu tô tão triste mds estou mt triste e infeliz..",
+    "Kkkkk ah sou mt feliz mlk a vida vale a pena ser vivida d++ ✌🍃",
+    "queria um fiat pussy 🤤",
+    "te quiero mucho..",
+    "vai dar certo.. eu tenho #fé",
+    "proibido opinar\n\n🚫🗣",
+    "woooow que problemão hein",
+    "quem chegar por último é mulher do padre",
+    "foi assim que a doutrina antivaxx começou",
+    "a vida é irada mano vamo curti",
+    "queria dar amor pra essa que curtiu..",
+    "a mulher tem que para de quere ser a mãe do cara",
+    "coceira na teta..",
+    "não quero saber é de nada!"
   ],
   "verb": [
     "defender",
@@ -466,6 +529,8 @@
     "viver",
     "chorar",
     "comer",
-    "enxotar"
+    "enxotar",
+    "maltratar",
+    "transar"
   ]
 }
