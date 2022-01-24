@@ -114,7 +114,7 @@
     "#{name}ExecutadoEmPraçaPublica",
     "vou falar uma coisa agr q não é pra ofender ninguém mas precisa ser dita: {supportSentence}",
     "Mais 1 (UM) Dia {presentAction} EU E A {name}",
-    "tem certeza VOCÊ TEM CERTEZA que vai {action} comigo na dm do twitter amigo?? eu tenho tipo uns 53 problemas psiquiátricos diferentes",
+    "tem certeza VOCÊ TEM CERTEZA que vai {action} comigo na dm do twitter amigo?? eu tenho tipo uns 53 {object} diferentes",
     "{name} dá bongada massiva sem tossir como prova de força",
     "eu gosto mt de {action} na internet com meus {name} :emoji-sorrindo:",
     "fumar aquele que deixou o {name}",
@@ -340,7 +340,8 @@
     "dinheiro",
     "beijo lento",
     "piadinha",
-    "dermatite nervosa nos pés"
+    "dermatite nervosa nos pés",
+    "problemas psiquiátricos"
   ],
   "date": [
     "domingo",
