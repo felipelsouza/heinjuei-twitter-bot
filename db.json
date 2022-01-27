@@ -154,7 +154,16 @@
     "eu quero ver {name} na prisão é isso o que eu quero ver",
     "essa só quem tem coragem de {action} vai entender",
     "e o {name} que aos 9 anos apenas se apaixonou por uma mina chamada {name} e passou a vida inteira fazendo poemas pra ela, cresceu e casou com outra mulher e batizou a filha q teve com ela de {name}\n\ncrl mt nós..",
-    "se eu tiver uma filha um dia o nome dela vai ser {name}"
+    "se eu tiver uma filha um dia o nome dela vai ser {name}",
+    "os seios de {name}",
+    "vo {verb} na time line (apenas com {name})",
+    "┏┓\n    ┃┃╱╲ AQUI\n    ┃╱╱╲╲ NESTA CASA\n    ╱╱╭╮╲╲ EU \n    ▔▏┗┛▕▔ E A MINHA\n    ╱▔▔▔▔▔▔▔▔▔▔╲ FAMÍLIA\n    ╱╱┏┳┓╭╮┏┳┓╲╲ SERVIMOS A\n    ▔▏┗┻┛┃┃┗┻┛▕▔  {name}",
+    "poucos {adjective} vão concordar mas a verdade é que no fundo eu sou {adjective}..",
+    "tô {presentAction} numa noite de {date} e posso afirmar com propriedade que {action} embaixo d'água {presentAction} seria menos agoniante",
+    "falei que ia {action} e ó eu aqui kkkkkk 😂",
+    "falei que ia {verb} e ó eu aqui kkkkkk 😂",
+    "eu posso {verb} a {name}",
+    "{name} = raça {adjective} e {adjective}"
   ],
   "name": [
     "primo",
@@ -310,7 +319,12 @@
     "esculachada",
     "podre",
     "empoderada",
-    "ensaboada"
+    "ensaboada",
+    "maconhilda",
+    "sensato",
+    "delícia de mulher",
+    "desgraçada",
+    "inferior"
   ],
   "object": [
     "calcinha",
@@ -385,7 +399,9 @@
     "pensando no que eu fiz de errado na minha vida",
     "olhando nos olhos",
     "correndo na rua",
-    "ardendo"
+    "ardendo",
+    "trabalhando",
+    "tomando facada nas solas dos pés"
   ],
   "action": [
     "fumar um nergal",
@@ -427,10 +443,11 @@
     "comprar ração de crescimento pra pinto",
     "fazer amor",
     "conversar com mulher bonita",
-    "jogar na frente de algum veículo em movimento",
+    "me jogar na frente de algum veículo em movimento",
     "enfiar um NFT no meu cu",
     "morrer sozinha",
-    "dar uma mamada na minha rola"
+    "dar uma mamada na minha rola",
+    "morrer por asfixia enquanto queimada por fogo ácido"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -532,6 +549,8 @@
     "comer",
     "enxotar",
     "maltratar",
-    "transar"
+    "transar",
+    "entrosar",
+    "consertar"
   ]
 }
