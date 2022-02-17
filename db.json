@@ -202,7 +202,9 @@
     "o q esse {name} já viu de pika o oceano não viu de água..",
     "me submeti mais uma vez a prisão que é {action}..",
     "eu vo {action}, vo {action}, vo {action}, vo {action}, vo ir {action}, vo {action}, vo {action}",
-    "eu tô mt feliz me sentindo realizada e me recuso a {action}.."
+    "eu tô mt feliz me sentindo realizada e me recuso a {action}..",
+    "pensando na expressão Hakuna Matata que significa literalmente \"{supportSentence}\" na língua Swahili, tem base na {object} e a a Disney ainda fez o contexto aplicado {action} (inclusive houve um filósofo {adjective} chamado {name})",
+    "tô com vontade de {action} mas ninguém quer me {verb}.."
   ],
   "name": [
     "primo",
@@ -308,7 +310,9 @@
     "@chernoronha",
     "Leninha",
     "@TheoBecker8",
-    "@lilira_"
+    "@lilira_",
+    "Timão",
+    "sua mãe"
   ],
   "adjective": [
     "especialista",
@@ -399,7 +403,8 @@
     "bissexual",
     "arrombado",
     "xenófoba",
-    "nerd safado"
+    "nerd safado",
+    "cético"
   ],
   "object": [
     "calcinha",
@@ -440,7 +445,8 @@
     "hentai e de mangá",
     "maçã",
     "bomba relógio",
-    "caráter"
+    "caráter",
+    "filosofia Ubuntu"
   ],
   "date": [
     "domingo",
@@ -566,7 +572,9 @@
     "lavar as calcinhas dela",
     "votar no Lula com ela",
     "gastar minha miséria de salário todo pra agradar ela",
-    "me declarar todo dia pra ela até ela me largar de um jeito mt humilhante pra fica com uma barang"
+    "me declarar todo dia pra ela até ela me largar de um jeito mt humilhante pra fica com uma barang",
+    "beber da fonte do ceticismo clássico",
+    "tomar vacina qualquer uma"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -663,7 +671,9 @@
     "mds que saudade d'Ela",
     "dixitque Deus fiat lux et facta est lux 🔦",
     "Bença, mutuals 🙏",
-    "Você tem whemts apple😎"
+    "Você tem whemts apple😎",
+    "NÃO HÁ FERROLHOS",
+    "mentira isso 😳"
   ],
   "verb": [
     "defender",
@@ -691,6 +701,7 @@
     "transar",
     "entrosar",
     "consertar",
-    "folear"
+    "folear",
+    "dar"
   ]
 }
