@@ -62,7 +62,7 @@
     "{name} passa-te a bufa\n(̅_̅_̅_̅(̲̲̲̲̲̅̅̅̅̅̅(̅_̅_̲̅_̅_̅_̲̅_̅̅_̲̅_̅̅_̅()ڪے\nAceitas?",
     "_____ _____ _____ _____ _____\n    ← ⚪ {name}   ⠇                         \n              ᴴᵃ ⁵ ᵐⁱⁿᵘᵗᵒˢ\n\n        Você quer me ter\n            ou só meter🥴🍃\n\n                        ↑\n                  ᴿᵉˢᵖᵒⁿᵈᵉʳ\n       ꠲              ▢              <",
     "entre {action} e {action} não vo nem dizer o q prefiro não vo nem dizer kkkk",
-    "{name}, o mudo uma vez enganou {name} e ofereceu {object} pra ela em troca de sexo (ela não sabia que era ele) só pra provar um ditado que as mulheres todas são '{adjective}'",
+    "{name}, o mudo uma vez enganou {name} e ofereceu {object} pra ela em troca de {object} (ela não sabia que era ele) só pra provar um ditado que {name} todas são '{adjective}'",
     "{name} era {name} mas dificilmente é retratado assim pela igreja católica, ele nasceu onde hoje é localizada {name}",
     "{name} fez parte de um trisal com o amigo {name} e a mina que eles curtiam chamada {name}",
     "oiii\nvamo {action}\nvamo?\nvamo {action}\nvamo\nvamo?\nvamo {action}\nvamo\nvamo?",
@@ -70,7 +70,7 @@
     "em 2022 ou eu vou {action} ou vou me matar",
     "{date} eu vou {action} e por isso não posso me matar ainda..",
     "tenho medo de sair na rua e ser processada por ser tão {adjective} e {adjective} :(",
-    "SE eu [sobreviver] até 2022 eu vou tentar ser {adjective} e não esse {name} que me tornei.",
+    "SE eu [sobreviver] em 2022 eu vou tentar ser {adjective} e não esse {name} que me tornei.",
     "denunciem {name} sem engajar.",
     "eu tenho orgulho de ser uma tremenda duma {adjective}. sou {adjective} como um ato político!",
     "deus se o senhor tiver me ouvindo traz {name} de volta e me leva no lugar dele meu deus",
@@ -136,7 +136,7 @@
     "oi boa noite vc tá afim de sla tipo assim {action} e tipo hm.. nn sei kk sla sabe {action} e {action} e {action} e {action} e daí depois disso kk {action}? hein? vc quer? diz pra mim? vc quer?",
     "eu quero >{verb}< vc!!",
     "\"{supportSentence}\"\n\nfodase meu amigo eu estou {presentAction} vai tomar no olho do teu cu",
-    "{presentAction} {presentAction} {presentAction} {presentAction} e pensando no que eu fiz de errado na minha vida pra existir de forma tão deprimente e humilhante",
+    "{presentAction} {presentAction} {presentAction} {presentAction} e pensando no que eu fiz de errado na minha vida pra {action}",
     "o {name} apoia {name} a gente já sabe que tem genitália de tamanho negativo (nada contra)",
     "tem mais que {verb} mesmo 🖕 se foda {name}",
     "{verb} + {object} + de ladinho + {object} + {action} + com a {name} + {presentAction}",
@@ -204,7 +204,9 @@
     "eu vo {action}, vo {action}, vo {action}, vo {action}, vo ir {action}, vo {action}, vo {action}",
     "eu tô mt feliz me sentindo realizada e me recuso a {action}..",
     "pensando na expressão Hakuna Matata que significa literalmente \"{supportSentence}\" na língua Swahili, tem base na {object} e a a Disney ainda fez o contexto aplicado {action} (inclusive houve um filósofo {adjective} chamado {name})",
-    "tô com vontade de {action} mas ninguém quer me {verb}.."
+    "tô com vontade de {action} mas ninguém quer me {verb}..",
+    "tô simplesmente *{adjective}* que o {name} era contra a {object} por puro conservadorismo..",
+    "mlk se {object} fosse mundial eu seria o palmeiras.."
   ],
   "name": [
     "primo",
@@ -312,7 +314,9 @@
     "@TheoBecker8",
     "@lilira_",
     "Timão",
-    "sua mãe"
+    "sua mãe",
+    "pai da picona",
+    "Kant"
   ],
   "adjective": [
     "especialista",
@@ -404,7 +408,8 @@
     "arrombado",
     "xenófoba",
     "nerd safado",
-    "cético"
+    "cético",
+    "indignada"
   ],
   "object": [
     "calcinha",
@@ -446,7 +451,9 @@
     "maçã",
     "bomba relógio",
     "caráter",
-    "filosofia Ubuntu"
+    "filosofia Ubuntu",
+    "sexo",
+    "punhetinha"
   ],
   "date": [
     "domingo",
@@ -497,7 +504,8 @@
     "falando merda",
     "sofrendo mt com abstinência",
     "pensar n'Ela",
-    "fracassando"
+    "fracassando",
+    "fazendo movimentos bruscos"
   ],
   "action": [
     "fumar um nergal",
@@ -574,7 +582,8 @@
     "gastar minha miséria de salário todo pra agradar ela",
     "me declarar todo dia pra ela até ela me largar de um jeito mt humilhante pra fica com uma barang",
     "beber da fonte do ceticismo clássico",
-    "tomar vacina qualquer uma"
+    "tomar vacina qualquer uma",
+    "existir de forma tão deprimente e humilhante"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -673,7 +682,9 @@
     "Bença, mutuals 🙏",
     "Você tem whemts apple😎",
     "NÃO HÁ FERROLHOS",
-    "mentira isso 😳"
+    "mentira isso 😳",
+    "o q é isso inchado?",
+    "friday i'm in love até o talo fi 🙅💯💥👊"
   ],
   "verb": [
     "defender",
