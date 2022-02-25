@@ -206,7 +206,23 @@
     "pensando na expressão Hakuna Matata que significa literalmente \"{supportSentence}\" na língua Swahili, tem base na {object} e a a Disney ainda fez o contexto aplicado {action} (inclusive houve um filósofo {adjective} chamado {name})",
     "tô com vontade de {action} mas ninguém quer me {verb}..",
     "tô simplesmente *{adjective}* que o {name} era contra a {object} por puro conservadorismo..",
-    "mlk se {object} fosse mundial eu seria o palmeiras.."
+    "mlk se {object} fosse mundial eu seria o palmeiras..",
+    "um like e peço {name} em namoro..",
+    "o que eu amo {name} é insanidade fi..",
+    "eu não quero {verb} {name}.. eu só quero {action}..",
+    "eu vou parar de {action} em breve..",
+    "enfim.. vamos falar de {object}",
+    "não posso morrer ainda pq preciso {action}..",
+    "{presentAction} e meu coração doendo acho que vou de F..",
+    "a verdade com que poucos {adjective} de gosto refinado vão concordar é que o {object} pisa e esmurra esse {adjective} do {object}..",
+    "acabei de {action} aqui e foi uma delícia..",
+    "nesse carnaval eu vou {action} {presentAction}..",
+    "é.. vou {action} até a nossa noite de núpcias e vai ser o melhor dia do mundo desde o nascimento do {name}, o nosso Senhor e Salvador..",
+    "a {name} me mandando {action} um pouco.. os valores estão todos invertidos mesmo :/",
+    "ei {name} deixa eu {action} e {action} e {action} e {action}?..",
+    "mlk eu amo tanto Ela que se Ela {action} {action} {action} e {action} eu vo agradecer ainda fi kkkkk que anja nmrl..",
+    "tenho que {action} pq no juízo final Deus vai {action}..",
+    "partido dos \"\"\"{adjective}\"\"\".."
   ],
   "name": [
     "primo",
@@ -313,7 +329,13 @@
     "Timão",
     "sua mãe",
     "pai da picona",
-    "Kant"
+    "Kant",
+    "Thomas Kuhn",
+    "morena",
+    "Ela",
+    "@mamakiiglubglub",
+    "Messias Jesus Cristo de Nazaré",
+    "Julio Patriota 38"
   ],
   "adjective": [
     "especialista",
@@ -405,7 +427,10 @@
     "xenófoba",
     "nerd safado",
     "cético",
-    "indignada"
+    "indignada",
+    "lúcidos",
+    "coitado",
+    "trabalhadores"
   ],
   "object": [
     "calcinha",
@@ -443,13 +468,15 @@
     "BUCETINHA",
     "bíblia",
     "manias psicóticas",
-    "hentai e de mangá",
+    "hentai e mangá",
     "maçã",
     "bomba relógio",
     "caráter",
     "filosofia Ubuntu",
     "sexo",
-    "punhetinha"
+    "punhetinha",
+    "amor",
+    "lux botanicals"
   ],
   "date": [
     "domingo",
@@ -501,7 +528,9 @@
     "sofrendo mt com abstinência",
     "pensar n'Ela",
     "fracassando",
-    "fazendo movimentos bruscos"
+    "fazendo movimentos bruscos",
+    "pensando demais na morena",
+    "pensando nEla"
   ],
   "action": [
     "fumar um nergal",
@@ -579,7 +608,25 @@
     "me declarar todo dia pra ela até ela me largar de um jeito mt humilhante pra fica com uma barang",
     "beber da fonte do ceticismo clássico",
     "tomar vacina qualquer uma",
-    "existir de forma tão deprimente e humilhante"
+    "existir de forma tão deprimente e humilhante",
+    "estudar delicioso doce sabor do beijo dEla",
+    "me expor tanto na internet",
+    "fazer Ela feliz",
+    "abraçar o absurdo (camusiano)",
+    "ficar mt em casa",
+    "me guardar pra ela",
+    "sair do celular e ir brincar lá fora",
+    "cuidar de vc",
+    "dar amor",
+    "dar carinho",
+    "fazer sorrir",
+    "me bater",
+    "me cuspir",
+    "me trair",
+    "me humilhar",
+    "parar de me expor no twitter",
+    "pegar tudo que eu falo aqui pra jogar na minha cara",
+    "mamilar"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -680,7 +727,15 @@
     "NÃO HÁ FERROLHOS",
     "mentira isso 😳",
     "o q é isso inchado?",
-    "friday i'm in love até o talo fi 🙅💯💥👊"
+    "friday i'm in love até o talo fi 🙅💯💥👊",
+    "crl kkk porra é essa menó..",
+    "trate ficante como ficante",
+    "depilei a bct tá o só o courinho do caillou..",
+    "eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo eu te amo",
+    "o de hoje tá pago 💪",
+    "proibido lesbocentrar\n\n🚫👩‍❤️‍💋‍👩",
+    "tô virando um monstro por causa do amor 😭",
+    "vtnc mlk agüei aqui fi 🤤😢"
   ],
   "verb": [
     "defender",
@@ -709,6 +764,8 @@
     "entrosar",
     "consertar",
     "folear",
-    "dar"
+    "dar",
+    "estudar",
+    "mamilar"
   ]
 }
