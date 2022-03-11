@@ -19,6 +19,7 @@ const generateTweet = async () => {
   const presentActions = (await db).get('present_action').value();
   const supportSentences = (await db).get('support_sentence').value();
   const verbs = (await db).get('verb').value();
+  const places = (await db).get('place').value();
 
   let sentence = bases[Math.floor(Math.random() * bases.length)];
   sentence = sentence.replace(/{name}/g, () => getValue(names));
@@ -30,6 +31,7 @@ const generateTweet = async () => {
   sentence = sentence.replace(/{presentAction}/g, () => getValue(presentActions));
   sentence = sentence.replace(/{supportSentence}/g, () => getValue(supportSentences));
   sentence = sentence.replace(/{verb}/g, () => getValue(verbs));
+  sentence = sentence.replace(/{place}/g, () => getValue(places));
   sentence = sentence.substr(0, 280);
 
   client.tweet(sentence);
