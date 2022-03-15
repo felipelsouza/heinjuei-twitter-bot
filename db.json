@@ -247,7 +247,7 @@
     "queria {action} hj.. xtou muinto trixte ai munha vuida 💔",
     "só tenho uma coisa pra falar pra vcs..\n\n{supportSentence}.",
     "sim.. vou {action} dia 3 de abril por causa de {name} algum problema??",
-    "ainda tô com a mente perturbada pq uma {name} invadiu o banheiro q eu tava {presentAction} na {place} e viu meu {object}..",
+    "ainda tô com a mente {adjective} pq uma {name} invadiu o banheiro q eu tava {presentAction} na {place} e viu meu {object}..",
     "os {name} mal sabiam q {action} é a única e verdadeira aponia.."
   ],
   "name": [
@@ -480,7 +480,8 @@
     "tuiteiro",
     "SAFADA",
     "gays",
-    "bandido psicopata"
+    "bandido psicopata",
+    "perturbada"
   ],
   "object": [
     "calcinha",
