@@ -104,7 +104,7 @@
     "se eu {action} nos stories dela será que ela vai me {verb}?",
     "meu nome é {name} e eu faço {object} no twitter pra esconder a dor 😄",
     "será que o adm do perfil {name} {adjective} está solteiro?..",
-    "tava fazendo as contas aqui e certeza que se eu {action} na facul eu tiro um salário maior do que {name}.",
+    "tava fazendo as contas aqui e certeza que se eu {action} na {place} eu tiro um salário maior do que {name}.",
     "\"{supportSentence}\"\n\namigo faz assim:\n\nvai {action}",
     "acho que acabei de receber o melhor elogio da minha vida (que eu NÃO sou {adjective})",
     "- {name} vai ali nk {place} pra mi.m\n- vou nada {name} eu sou muinto {adjective}",
@@ -242,7 +242,13 @@
     "meu Deus que vontade de {action} da bela {name} que amo..",
     "tô nem aí pra fofoca de twitter kkkkk quero {action} isso sim 🙅💥💯💪🤫",
     "queria {action} com todo aquele respeito envolvido..",
-    "o {name} mt sortudo por estar ao lado da {name} que ele ama.. queria :/"
+    "o {name} mt sortudo por estar ao lado da {name} que ele ama.. queria :/",
+    "o pneu da bike furou e agr como vou sair pra {action} escondido?..",
+    "queria {action} hj.. xtou muinto trixte ai munha vuida 💔",
+    "só tenho uma coisa pra falar pra vcs..\n\n{supportSentence}.",
+    "sim.. vou {action} dia 3 de abril por causa de {name} algum problema??",
+    "ainda tô com a mente perturbada pq uma {name} invadiu o banheiro q eu tava {presentAction} na {place} e viu meu {object}..",
+    "os {name} mal sabiam q {action} é a única e verdadeira aponia.."
   ],
   "name": [
     "primo",
@@ -368,7 +374,12 @@
     "VASCO",
     "cliente",
     "dama",
-    "primo Felipe"
+    "primo Felipe",
+    "Picasso",
+    "racionalistas",
+    "mulher",
+    "mina",
+    "epicuristas"
   ],
   "adjective": [
     "especialista",
@@ -517,7 +528,9 @@
     "amor",
     "lux botanicals",
     "areia no cu",
-    "unhas"
+    "unhas",
+    "carne de soja da Laurão",
+    "prikito"
   ],
   "date": [
     "domingo",
@@ -680,7 +693,9 @@
     "cheirar o pescoço da minha dona",
     "beijar os doces lábios",
     "amar minha esposa",
-    "chupar a úvula dEla"
+    "chupar a úvula dEla",
+    "friccionar minha língua na língua da minha esposa",
+    "me batizar"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -802,7 +817,9 @@
     "o pae é pika 🙅💥💯",
     "É PENTAAAAA DALE DALE DALE OOOOOO BRASIL SIL SIL KKKKKKK",
     "AAAA EU TO MALUCOO\nAAA EU TO MALUCOOO KKKKKKK",
-    "só love só love só love só love só love só love só love só love 🎶"
+    "só love só love só love só love só love só love só love só love 🎶",
+    "fuma faz mal",
+    "vo catucar seu boga"
   ],
   "verb": [
     "defender",
@@ -854,6 +871,7 @@
     "Sapopema (PR)",
     "Rio de Janeiro",
     "Bangu",
-    "inferno"
+    "inferno",
+    "facul"
   ]
 }
