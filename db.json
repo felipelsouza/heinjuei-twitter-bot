@@ -248,7 +248,16 @@
     "só tenho uma coisa pra falar pra vcs..\n\n{supportSentence}.",
     "sim.. vou {action} dia 3 de abril por causa de {name} algum problema??",
     "ainda tô com a mente {adjective} pq uma {name} invadiu o banheiro q eu tava {presentAction} na {place} e viu meu {object}..",
-    "os {name} mal sabiam q {action} é a única e verdadeira aponia.."
+    "os {name} mal sabiam q {action} é a única e verdadeira aponia..",
+    "eu não falo o nome da {name} aqui q é pro {name} não {action} com ela diretamente..",
+    "pouca gente sabe mas a bundinha do {name} (vulgo {name}) é uma das mais {adjective} e {adjective} do {place}..",
+    "pensei que ela tava {presentAction} pprt..",
+    "RT {name} Nossa isso me lebrou a frase de um {name} n lembro qual mas era tipo n sei oq {object} n sei oq la {object} algo assim",
+    "eu acho que meu {name} (o que eu robei) é no mínimo no mínimo {adjective} e ele tem todo meu apoio!! #pride 🇨🇳",
+    "esse tal de {name} acho que ele cheirava mt pó..",
+    "- {name}\n\n- {supportSentence}",
+    "eu te amo {name} que colocou {name} e {name} na playlist da academia hoje eu te amo",
+    "uma curiosidade interessante: sinto muita saudades de {action}.."
   ],
   "name": [
     "primo",
@@ -341,6 +350,7 @@
     "@sejafelizpfv",
     "lira",
     "Gabriel Pervertido",
+    "Gabriel",
     "Joyc",
     "@MasterOfBoobets",
     "@AdrillesRJorge",
@@ -379,7 +389,20 @@
     "racionalistas",
     "mulher",
     "mina",
-    "epicuristas"
+    "epicuristas",
+    "minha morena",
+    "lotus",
+    "@anjotrans",
+    "Papa Gregório IX",
+    "@mulheonce",
+    "psicanalista",
+    "cachorro",
+    "Waldir Braz",
+    "yag",
+    "Britney",
+    "Madonna",
+    "PT",
+    "monarkkk"
   ],
   "adjective": [
     "especialista",
@@ -481,7 +504,11 @@
     "SAFADA",
     "gays",
     "bandido psicopata",
-    "perturbada"
+    "perturbada",
+    "simétricas",
+    "firmes",
+    "bissexual",
+    "yag"
   ],
   "object": [
     "calcinha",
@@ -531,7 +558,11 @@
     "areia no cu",
     "unhas",
     "carne de soja da Laurão",
-    "prikito"
+    "prikito",
+    "bundinha",
+    "chinelo velho com prego enferrujado segurando a alça arrebentada",
+    "perversidade humana",
+    "excitação sexo"
   ],
   "date": [
     "domingo",
@@ -587,7 +618,9 @@
     "pensando demais na morena",
     "pensando nEla",
     "comendo farofa agr no almoço",
-    "morrendo pro mundo"
+    "morrendo pro mundo",
+    "contemplando o conhecimento pela razão pura",
+    "segurando um pênis"
   ],
   "action": [
     "fumar um nergal",
@@ -696,7 +729,10 @@
     "amar minha esposa",
     "chupar a úvula dEla",
     "friccionar minha língua na língua da minha esposa",
-    "me batizar"
+    "me batizar",
+    "zuar",
+    "me despir",
+    "dar uma bitoquinha na minha futura esposa"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -820,7 +856,13 @@
     "AAAA EU TO MALUCOO\nAAA EU TO MALUCOOO KKKKKKK",
     "só love só love só love só love só love só love só love só love 🎶",
     "fuma faz mal",
-    "vo catucar seu boga"
+    "vo catucar seu boga",
+    "era deeesse tamanhão aqui ó\n\n🫳\n\n🫴",
+    "indo ouvir um rock! 🤟",
+    "crl q dia ruim kkkk 😔",
+    "Assista o vídeo antes de tentar nos ofender 😉",
+    "Deus seja Louvado 🙌",
+    "everyone is so mean 2 me.. 💔"
   ],
   "verb": [
     "defender",
@@ -855,7 +897,8 @@
     "pintar",
     "chupar",
     "beijar",
-    "cheirar"
+    "cheirar",
+    "zuar"
   ],
   "place": [
     "Grécia",
@@ -873,6 +916,9 @@
     "Rio de Janeiro",
     "Bangu",
     "inferno",
-    "facul"
+    "facul",
+    "RJ",
+    "Rural",
+    "Pernambuco"
   ]
 }
