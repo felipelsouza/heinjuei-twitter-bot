@@ -273,7 +273,9 @@
     "quase duas da manhã e não consigo dormir pq só penso em {action}..",
     "eu to {presentAction} galera não to {presentAction} juro..",
     "já diria o meu mano {name}: \"{supportSentence}\"",
-    "me perdoa por {action}, {action}, {action} e {action}.. é que meu signo é de áries ♈"
+    "me perdoa por {action}, {action}, {action} e {action}.. é que meu signo é de áries ♈",
+    "imagina escolher gerar um ser vivo por 9 meses no seu ventre, cuidar dele com todo carinho desde a gestação, amamentar bem, oferecer-lhe a melhor educação e qualidade de vida até que num dia fatídico sua prole se manifesta da seguinte forma em sua direção:\n\n\"{supportSentence}\"",
+    "pra q um namorado se eu posso ter 5 ({name}, {name}, {name}, {name}, {name}) se é que me entendes.."
   ],
   "name": [
     "primo",
@@ -431,7 +433,12 @@
     "Diógenes",
     "@soupardinho",
     "lil vinicin",
-    "lobisomem pidão junior da silva"
+    "lobisomem pidão junior da silva",
+    "sr mindinho",
+    "sr vizinho",
+    "pai de todos",
+    "fura bolo",
+    "mata piolho"
   ],
   "adjective": [
     "especialista",
@@ -784,7 +791,9 @@
     "agredir pessoas",
     "quebrar e vandalizar bens",
     "falsificar documentos",
-    "clonar cartões"
+    "clonar cartões",
+    "gerar um ser vivo por 9 meses",
+    "amamentar bem"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -923,7 +932,8 @@
     "estoy mucho loco papi!!",
     "vou vadiar ✌️🍃",
     "Quero morrer sendo escravo dos princípios, não dos homens..",
-    "estou louco! estou louco!"
+    "estou louco! estou louco!",
+    "mãe, você é normie"
   ],
   "verb": [
     "defender",
