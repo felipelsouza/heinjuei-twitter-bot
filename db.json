@@ -257,7 +257,23 @@
     "esse tal de {name} acho que ele cheirava mt pó..",
     "- {name}\n\n- {supportSentence}",
     "eu te amo {name} que colocou {name} e {name} na playlist da academia hoje eu te amo",
-    "uma curiosidade interessante: sinto muita saudades de {action}.."
+    "uma curiosidade interessante: sinto muita saudades de {action}..",
+    "e o {name} que escreveu na Bíblia sobre {action}\n\nbased 🛐",
+    "o {name} defende que o {name} não pode {action}, logo não pode {action}.. depois ele fala sobre {name} e o apreço ao {object} q se deve ter, sem {action}",
+    "⚠️ atenção: irei {action} a seguir",
+    "tem mais é q {action} na casa desses {adjective} mesmo 🤘",
+    "enquanto vcs {adjective} ficam {presentAction} eu vou {action} isso sim hehehe 🙅✌️🍃",
+    "tal qual {name} {adjective}, eu desafio a {name} que este {object} vire o {name} aqui agora\ndaí vcs me veriam maravilhado\n\nNão virou.\n\nEu nego {name}!",
+    "engraçado que só tem {object} {adjective} de condomínio {presentAction} nas replys..",
+    "em dias de caos e perigo o cu do {name} vira abrigo",
+    "em plantação de piroca dura o {name} faz a colheita com a bunda",
+    "em festa de pika {name} é aniversariante",
+    "em chuva de penis {name} faz a bunda de sombrinha",
+    "em chuva de piroca {name} mata a sede e planta bananeira",
+    "quase duas da manhã e não consigo dormir pq só penso em {action}..",
+    "eu to {presentAction} galera não to {presentAction} juro..",
+    "já diria o meu mano {name}: \"{supportSentence}\"",
+    "me perdoa por {action}, {action}, {action} e {action}.. é que meu signo é de áries ♈"
   ],
   "name": [
     "primo",
@@ -402,7 +418,20 @@
     "Britney",
     "Madonna",
     "PT",
-    "monarkkk"
+    "monarkkk",
+    "rei Salomão",
+    "Marco Aurélio",
+    "homem",
+    "Anitta",
+    "bozo",
+    "Jesus",
+    "chico bento",
+    "Ataliba",
+    "Cristo",
+    "Diógenes",
+    "@soupardinho",
+    "lil vinicin",
+    "lobisomem pidão junior da silva"
   ],
   "adjective": [
     "especialista",
@@ -508,7 +537,11 @@
     "simétricas",
     "firmes",
     "bissexual",
-    "yag"
+    "yag",
+    "fodidos",
+    "nerds",
+    "niilista",
+    "cocota"
   ],
   "object": [
     "calcinha",
@@ -562,7 +595,12 @@
     "bundinha",
     "chinelo velho com prego enferrujado segurando a alça arrebentada",
     "perversidade humana",
-    "excitação sexo"
+    "excitação sexo",
+    "chiquenito do Burge King",
+    "branca",
+    "pika",
+    "piroca dura",
+    "pênis"
   ],
   "date": [
     "domingo",
@@ -612,7 +650,6 @@
     "concorrendo a uma vaga na universidade de Harvard",
     "falando merda",
     "sofrendo mt com abstinência",
-    "pensar n'Ela",
     "fracassando",
     "fazendo movimentos bruscos",
     "pensando demais na morena",
@@ -620,7 +657,11 @@
     "comendo farofa agr no almoço",
     "morrendo pro mundo",
     "contemplando o conhecimento pela razão pura",
-    "segurando um pênis"
+    "segurando um pênis",
+    "discutindo na internet em pleno feriado",
+    "rasgando o cu por causa de pixo",
+    "trabalhando",
+    "procrastinando com joguinhos"
   ],
   "action": [
     "fumar um nergal",
@@ -732,7 +773,18 @@
     "me batizar",
     "zuar",
     "me despir",
-    "dar uma bitoquinha na minha futura esposa"
+    "dar uma bitoquinha na minha futura esposa",
+    "pegar em peitinhos",
+    "perder o que não tem",
+    "desejar viver muito",
+    "pixar uma pika bem torta",
+    "dar amor pra uma bela mulher",
+    "dar um cheiradão no sovaco dEla",
+    "pensar n'Ela",
+    "agredir pessoas",
+    "quebrar e vandalizar bens",
+    "falsificar documentos",
+    "clonar cartões"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -862,7 +914,16 @@
     "crl q dia ruim kkkk 😔",
     "Assista o vídeo antes de tentar nos ofender 😉",
     "Deus seja Louvado 🙌",
-    "everyone is so mean 2 me.. 💔"
+    "everyone is so mean 2 me.. 💔",
+    "misericórdia",
+    "tô triste fml..",
+    "se fode aí man kkkk",
+    "mãozinhas para frente, bundinha empinada 😈🔥\nvou dar o meu rolê na minha moto envenenada 🏍️☠️",
+    "Eu Acho Q Essa Novinha Eh Minha\nAlma Gemea Pprt …",
+    "estoy mucho loco papi!!",
+    "vou vadiar ✌️🍃",
+    "Quero morrer sendo escravo dos princípios, não dos homens..",
+    "estou louco! estou louco!"
   ],
   "verb": [
     "defender",
@@ -919,6 +980,8 @@
     "facul",
     "RJ",
     "Rural",
-    "Pernambuco"
+    "Pernambuco",
+    "Egito",
+    "Busselton 🤤"
   ]
 }
