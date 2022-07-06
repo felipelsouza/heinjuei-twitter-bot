@@ -135,7 +135,7 @@
     "tava na rua e ouvi {name} falando no celular que ia {action}..",
     "oi boa noite vc tá afim de sla tipo assim {action} e tipo hm.. nn sei kk sla sabe {action} e {action} e {action} e {action} e daí depois disso kk {action}? hein? vc quer? diz pra mim? vc quer?",
     "eu quero >{verb}< vc!!",
-    "\"{supportSentence}\"\n\nfodase meu amigo eu estou {presentAction} vai tomar no olho do teu cu",
+    "\"{supportSentence}\"\n\nfodase meu amigo eu estou {presentAction} vai {action}",
     "{presentAction} {presentAction} {presentAction} {presentAction} e pensando no que eu fiz de errado na minha vida pra {action}",
     "o {name} apoia {name} a gente já sabe que tem genitália de tamanho negativo (nada contra)",
     "tem mais que {verb} mesmo 🖕 se foda {name}",
@@ -340,8 +340,14 @@
     "ah, sim\n{name}\no ícone da extrema esquerda brasileira..",
     "já dizia a filósofa {name} né \"{supportSentence}..\"",
     "a única coisa que combate a insônia é {action} mesmo não tem jeito..",
-    "pastor, eu posso {action}? PODE! eu posso {action} sem o pastor saber? PODE! eu posso pastor, {actions}? PODE! eu posso {action}? PODE! VOCÊ SÓ NAO VAI PODER OUVIR O SOM DA ULTIMA TROMBETA 📢📢",
-    "e eu que fui expulso do grupo da igreja por ser {adjective} 😂🙏🏳️‍🌈"
+    "pastor, eu posso {action}? PODE! eu posso {action} sem o pastor saber? PODE! eu posso pastor, {action}? PODE! eu posso {action}? PODE! VOCÊ SÓ NAO VAI PODER OUVIR O SOM DA ULTIMA TROMBETA 📢📢",
+    "e eu que fui expulso do grupo da igreja por ser {adjective} 😂🙏🏳️‍🌈",
+    "todo mundo {presentAction} ultimamente exceto a {name}..",
+    "e se eu for {action} junto com os {name}.. {action} por lá e tals",
+    "e se eu for morar no {place} junto com os {name}.. {action} por lá e tals",
+    "hehe preciso urgente de um {object} qualquer e algum lugar pra {action} tipo agora\nalguém ajuda",
+    "{name} se eu te achar vai ser seu fim mlk.. o que é teu tá guardado",
+    "tal qual meus {name} terei de {action} pq não tenho mais condições de {action}.."
   ],
   "name": [
     "primo",
@@ -568,7 +574,11 @@
     "Michelangelo",
     "Mc Naldinho",
     "Perlla",
-    "Cyndi Lauper"
+    "Cyndi Lauper",
+    "concedente de estágio",
+    "Sepultura",
+    "ratamahatta",
+    "manuel cante"
   ],
   "adjective": [
     "especialista",
@@ -736,7 +746,9 @@
     "solteiro",
     "viajante nômade mochileiro",
     "mórmon",
-    "playba"
+    "playba",
+    "antropofagistas",
+    "metalheads"
   ],
   "object": [
     "calcinha",
@@ -820,7 +832,11 @@
     "entorpecentes",
     "priquito",
     "sabão em barra Ypê",
-    "zé beselgas"
+    "zé beselgas",
+    "emprego",
+    "cocada",
+    "maloca",
+    "fubanga"
   ],
   "date": ["domingo", "segunda feira", "terça feira", "quarta feira", "quinta feira", "sexta feira", "sabado"],
   "present_action": [
@@ -880,7 +896,8 @@
     "vomitando e desmaiand",
     "recebendo carinho",
     "fuçando meus tweets pra ver se acha algum podre",
-    "lambendo um mamilo"
+    "lambendo um mamilo",
+    "me maltratando"
   ],
   "action": [
     "fumar um nergal",
@@ -1035,7 +1052,11 @@
     "tomar santa ceia e depois uma cerveja",
     "ter a minha mulher de casada e a amante la fora",
     "ter 3 homens, 4 homens",
-    "falar palavrão"
+    "falar palavrão",
+    "tomar no olho do teu cu",
+    "morar no campus da rural",
+    "viver do que a terra dá",
+    "baixar músicas no cartão de memória"
   ],
   "support_sentence": [
     "só sei que nada sei",
@@ -1257,7 +1278,9 @@
     "envelhecer",
     "aposentar",
     "arrotar",
-    "correr"
+    "correr",
+    "morar",
+    "tankar"
   ],
   "place": [
     "Grécia",
@@ -1290,6 +1313,7 @@
     "ESCOLA",
     "balcão do Itaú",
     "Américas",
-    "rio de merdeiro"
+    "rio de merdeiro",
+    "campus da rural"
   ]
 }
